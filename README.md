@@ -54,9 +54,6 @@ Perform Exploratory Data Analysis (EDA) and detect outliers using the IQR method
 ### Outlier Detection
 ![Outliers](07_outliers_detected.png)
 
-### Outlier Flag
-![Flag](08_outlier_flag.png)
-
 
 ### Correlation Matrix
 ![Correlation](09_correlation_matrix.png)
